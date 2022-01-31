@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RoboPYJS
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning ML, DS, react and angular
+- 🌱 I’m currently learning Image Processing and DSA
 - 💞️ I’m looking to collaborate on nothing actually
 - 📫 Contact me on my mail prodevprt@gmail.com
 
