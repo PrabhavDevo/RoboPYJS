@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @PrabhavDevo
-- 🌱 I’m currently learning Image Processing and DSA
-- 💞️ I’m looking to collaborate on nothing actually
-- 📫 Contact me on my mail prodevprt@gmail.com
+- email: prodevprt@gmail.com
+- stackoverflow: https://stackoverflow.com/users/15394199/prabhavdevo
 
-<!---
-RoboPYJS/RoboPYJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+And just nothing...
+
+LET'S KEEP CODING FOLKS!
